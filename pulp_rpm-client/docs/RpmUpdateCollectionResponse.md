@@ -1,0 +1,14 @@
+# RpmUpdateCollectionResponse
+
+A Serializer for UpdateCollection.
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | **str** | Collection name. | 
+**shortname** | **str** | Collection short name. | 
+**module** | [**object**](.md) | Collection modular NSVCA. | 
+**packages** | **list[object]** | List of packages | [optional] [readonly] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

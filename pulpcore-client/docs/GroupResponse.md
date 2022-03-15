@@ -1,0 +1,13 @@
+# GroupResponse
+
+Serializer for Group.
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | **str** | Name | 
+**pulp_href** | **str** |  | [optional] [readonly] 
+**id** | **int** |  | [optional] [readonly] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
